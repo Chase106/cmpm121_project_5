@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{53DC06FD-472A-384D-8625-2FE62A1394C4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Lights/CameraManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/hw5/Sliding_Door.cs" Line="15" Column="19" />
+      <File FileName="Assets/Scripts/hw5/Pickup_item.cs" Line="29" Column="63" />
+      <File FileName="Assets/Scripts/hw5/DestroyOverTimes.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/hw5/Scene_Change.cs" Line="17" Column="41" />
+      <File FileName="Assets/Scripts/hw5/Pickup_other.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/Lights/CameraManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
